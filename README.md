@@ -6,9 +6,13 @@ It provides key insights into sales, profit, quantity, and orders across categor
 🔍 Key Highlights
 
 Total Sales, Profit, Quantity, and Order Count KPIs
+
 Sales breakdown by Category and State
+
 Profit analysis by Region
+
 Top 3 and Bottom 3 Subcategories
+
 Interactive date range and filter options
 
 🛠 Tools Used
